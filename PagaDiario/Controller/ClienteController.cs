@@ -1,15 +1,4 @@
-﻿//===============================================================================
-// PAGADIARIO-SOFTWARE 
-// Creator: Ing. Alex Aicardi
-// Date Creation: 26/01/
-// Version 1.0.0
-// Comment History Version : 1.0.0 : Creation,
-//===============================================================================
-// Copyright © SEYNEKUN Proyecto SIG 2016.  All rights reserved.
-// THIS CODE AND INFORMATION IS PROVIDED "AS PRIVACY CODE"
-// THE IMPLEMENTATION IS ONLY THINKING FOR SEYNEKUN PROPERTY.
-//===============================================================================
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;

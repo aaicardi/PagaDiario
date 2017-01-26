@@ -95,6 +95,10 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Model\Class\Clientes.cs" />
+    <Compile Include="Model\Class\ExtensionPrestamo.cs" />
+    <Compile Include="Model\Class\Pagos.cs" />
+    <Compile Include="Model\Class\Prestamo.cs" />
+    <Compile Include="Model\Class\TipoPago.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

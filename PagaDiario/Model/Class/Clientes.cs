@@ -5,6 +5,11 @@ using System.Web;
 
 namespace PagaDiario
 {
+    /// <summary>
+    /// Descripción: Clase Clientes
+    /// Ingeniero: Alex Aicardi
+    /// Fecha: 26/01/2017
+    /// </summary>
     public class Clientes
     {
         int idCliente;
